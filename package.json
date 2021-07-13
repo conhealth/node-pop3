@@ -8,9 +8,6 @@
     "import": "./src/Command.mjs",
     "require": "./lib/Command.js"
   },
-  "bin": {
-    "pop": "./bin/pop.js"
-  },
   "scripts": {
     "cli": "node ./bin/pop.js",
     "eslint": "eslint --ext=mjs,js .",
